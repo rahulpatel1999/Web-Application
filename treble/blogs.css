@@ -1,0 +1,58 @@
+body{
+    background-image: url(audio-black-and-white-black-and-white-6966.jpg);
+    color:white;
+}
+.post{
+    margin-left: 100px;
+}
+.post {
+    background-color: black;
+    width: 500px;
+    border: 25px solid transparent;
+    padding: 25px;
+    margin: 25px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #737373;
+}
+
+.active {
+    background-color: #737373;
+
+}
+
+h1 {
+            color: darkgoldenrod;
+            text-align: center;
+            font-family: fantasy; 
+            font-size: xx-large; 
+}
+.d{
+    height:auto;
+    width: 500px;
+    vertical-align: text-top;
+    text-overflow: clip;
+}
+
+.
